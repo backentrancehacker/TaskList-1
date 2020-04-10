@@ -2,8 +2,9 @@ main{
 	border-radius: 4px;
 	box-shadow: 0 0 1em #BDBDBD;
 	min-width: 50vw;
+	min-height: calc(100vh - 8em);
 	padding: 0;
-	margin: 0;
+	margin: 4em 0;
 	overflow-x: hidden;
 	word-break: break-word;
 	background-color: #fff;
