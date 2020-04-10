@@ -1,0 +1,16 @@
+header{
+	height: 13em;
+	padding: 0 2em;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.vox-cdn.com/thumbor/Al48-pEnyIn2rlgKX7MIHNmlE68=/0x0:5563x3709/1200x800/filters:focal(2302x1311:3192x2201)/cdn.vox-cdn.com/uploads/chorus_image/image/65752607/1048232144.jpg.0.jpg');
+	background-size: cover;
+	background-position: center center;
+	color: #fff;
+	display: flex;
+	flex-direction: column-reverse;
+	user-select: none;
+}
+header h1{
+	font-weight: 400;
+	color: #fff;
+	font-size: 2em;
+}
